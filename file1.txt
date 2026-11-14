@@ -12,3 +12,4 @@ Lorem ipsom is an example of text
 
  Lorem ipsom is an example of text
  that was written to fill a line
+the life is beautiful but not all the time
